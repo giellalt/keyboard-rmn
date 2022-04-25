@@ -2,6 +2,7 @@ displayNames:
   sv: romsk arli (Sverige)
   en: Romany Arli (Sweden)
   rmn-SE: Arlikane (Sverige)
+  rmn: Arlikane
 modes:
   win:
     default: |
