@@ -1,0 +1,9 @@
+template = ""
+rev_id = 16
+template_sha = "b5f3d4e78b098720e79340d8f8022316bf37d1d3"
+
+[replacements]
+__LICENSE__ = "LGPLv3"
+__UND2C__ = "rmn"
+__UNDEFINED__ = "Romany Arli"
+__UND__ = "rmn"
