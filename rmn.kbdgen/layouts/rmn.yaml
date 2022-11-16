@@ -1,6 +1,7 @@
 displayNames:
-  'rmn': Romany Arli
-  en: Romany Arli
+  sv: romsk arli (Sverige)
+  en: Romany Arli (Sweden)
+  rmn: Arlikane (Sverige)
 
 modes:
   android:
@@ -698,9 +699,18 @@ strings:
   space: gaska
   return: "linnjá\u00ADmolsun"
 
+space:
+  mac:
+    caps: '\u{A0}'
+    alt: '\u{A0}'
+    alt+shift: '\u{A0}'
+    caps+alt: '\u{A0}'
+    cmd+alt: '\u{A0}'
+
 targets:
   win:
     locale: rmn-Latn-US
+    languageName: Arlikane (Sverige)
   chrome:
     locale: "en"
     xkbLayout: "en"
