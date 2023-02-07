@@ -9,22 +9,22 @@ android:
   primary:
     layers:
       default: |
-        q w e r t y u i o p å
-        a s d f g h j k l š ä
+        q w e r t y u i o p ž
+        a s d f g h j k l š č
         \s{shift} z x c v b n m . \s{backspace}
       shift: |
-        Q W E R T Y U I O P Å
-        A S D F G H J K L Ö Ä
+        Q W E R T Y U I O P Ž
+        A S D F G H J K L Ö Č
         \s{shift} Z X C V B N M . \s{backspace}
   tablet-600:
     layers:
       default: |
-        q w e r t y u i o p å
-        a s d f g h j k l ö ä
+        q w e r t y u i o p ž
+        a s d f g h j k l š č
         \s{shift} z x c v b n m . \s{backspace}
       shift: |
-        Q W E R T Y U I O P Å
-        A S D F G H J K L Ö Ä
+        Q W E R T Y U I O P Ž
+        A S D F G H J K L Š Č
         \s{shift} Z X C V B N M . \s{backspace}
 iOS:
   config:
@@ -33,12 +33,12 @@ iOS:
   primary:
     layers:
       default: |
-        q w e r t y u i o p å
-        a s d f g h j k l ö ä
+        q w e r t y u i o p ž
+        a s d f g h j k l š č
         \s{shift:1.25} \s{spacer:0.25} z x c v b n m . \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        Q W E R T Y U I O P Å
-        A S D F G H J K L Ö Ä
+        Q W E R T Y U I O P Ž
+        A S D F G H J K L Š Č
         \s{shift:1.25} \s{spacer:0.25} Z X C V B N M . \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
@@ -51,12 +51,12 @@ iOS:
   iPad-9in:
     layers:
       default: |
-        q w e r t y u i o p å \s{backspace}
-        \s{spacer:0.25} a s d f g h j k l ö ä \s{return:1.25}
+        q w e r t y u i o p ž \s{backspace}
+        \s{spacer:0.25} a s d f g h j k l š č \s{return:1.25}
         \s{shift:1.1} z x c v b n m , . \s{shift:2.4}
       shift: |
-        Q W E R T Y U I O P Å Ŋ \s{backspace}
-        \s{spacer:0.25} A S D F G H J K L Ö Ä \s{return:1.25}
+        Q W E R T Y U I O P Ž ^ \s{backspace}
+        \s{spacer:0.25} A S D F G H J K L Š Č \s{return:1.25}
         \s{shift:1.1} Z X C V B N M ! ? \s{shift:2.4}
       alt: |
         1 2 3 4 5 6 7 8 9 0 ` ´ \s{backspace}
@@ -78,23 +78,23 @@ iOS:
     layers:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´ \s{backspace:1.5}
-        \s{spacer:1.5} q w e r t y u i o p å ^ @
-        \s{caps:1.75}  a s d f g h j k l ö ä \s{return:1.75}
+        \s{spacer:1.5} q w e r t y u i o p ž ^ @
+        \s{caps:1.75}  a s d f g h j k l š č \s{return:1.75}
         \s{shift:1.25} < z x c v b n m , . - \s{shift:2.25}
       shift: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
-        \s{spacer:1.5} Q W E R T Y U I O P Å ^ *
-        \s{caps:1.75}  A S D F G H J K L Ö Ä \s{return:1.75}
+        \s{spacer:1.5} Q W E R T Y U I O P Ž ^ *
+        \s{caps:1.75}  A S D F G H J K L Š Č \s{return:1.75}
         \s{shift:1.25} > Z X C V B N M ; : _ \s{shift:2.25}
       alt: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
         \s{spacer:1.5} q w e r t y u i o p å ^ *
-        \s{caps:1.75}  a s d f g h j k l ø æ \s{return:1.75}
+        \s{caps:1.75}  a s d f g h j k l ö ä \s{return:1.75}
         \s{shift:1.25} > z x c v b n m ; : _ \s{shift:2.25}
       alt+shift: |
         § ! " # kr % & / ( ) = ? ` \s{backspace:1.5}
         \s{spacer:1.5} Q W E R T Y U I O P Å ^ *
-        \s{caps:1.75}  A S D F G H J K L Ø Æ \s{return:1.75}
+        \s{caps:1.75}  A S D F G H J K L Ö Ä \s{return:1.75}
         \s{shift:1.25} > Z X C V B N M ; : _ \s{shift:2.25}
       symbols-1: |
         ` 1 2 3 4 5 6 7 8 9 0 < > \s{backspace:1.5}
@@ -106,28 +106,28 @@ macOS:
     layers:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-          q w e r t y u i o p å ¨
-          a s d f g h j k l ö ä '
+          q w e r t y u i o p ž ¨
+          a s d f g h j k l š č '
         < z x c v b n m , . -
       shift: |
         ° ! " # € % & / ( ) = ? `
-          Q W E R T Y U I O P Å ^
-          A S D F G H J K L Ö Ä *
+          Q W E R T Y U I O P Ž ^
+          A S D F G H J K L Š Č *
         > Z X C V B N M ; : _
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-          Q W E R T Y U I O P Å ^
-          A S D F G H J K L Ö Ä '
+          Q W E R T Y U I O P Ž ^
+          A S D F G H J K L Š Č '
         < Z X C V B N M , . -
       alt: |
         ¶ © @ £ $ ∞ § | [ ] ≈ ± ˝
-          ˚ Ω é ® ʼ µ ¨ ˀ œ π ˙ ˆ
-           š đ ƒ ¸ ˛ ˘ ˇ ﬁ ø æ ™
+          ˚ Ω é ® ʼ µ ¨ ˀ œ π å ˆ
+           š đ ƒ ¸ ˛ ˘ ˇ ﬁ ö ä ™
         ≤ ž ≈ č ‹ › ‘ ’ ‚ … -
       alt+shift: |
         • ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ ^
-          ° ˝ É √ Ŧ ˜ Ü ˆ Œ ∏ ˚ ^
-          ◊ Š № ʔ ¯ ˘ ¬ º ﬂ Ø Æ ’
+          ° ˝ É √ Ŧ ˜ Ü ˆ Œ ∏ Å ^
+          ◊ Š № ʔ ¯ ˘ ¬ º ﬂ Ö Ä ’
         ≥ Ž ˇ Č « » “ ” „ · —
       ctrl: |
         < 1      2      3     4      5      6      7      8     9     0      +      ´
@@ -136,28 +136,28 @@ macOS:
         < \u{1A} \u{18} \u{3} \u{16} \u{2}  \u{E}  \u{D}  ,     .     \u{1F}
       cmd: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-          q w e r t y u i o p å ¨
-          a s d f g h j k l ö ä '
+          q w e r t y u i o p Ž ¨
+          a s d f g h j k l š č '
         < z x c v b n m , . -
       cmd+shift: |
         ° ! " # € % & / ( ) = ? `
-          Q W E R T Y U I O P Å ^
-          A S D F G H J K L Ö Ä *
+          Q W E R T Y U I O P Ž ^
+          A S D F G H J K L Š Č *
         > Z X C V B N M ; : _
       cmd+alt: |
         ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
-          • Ω é ® † µ ü ı œ π ˙ ~
-           ß ∂ ƒ ¸ ˛ √ ª ﬁ ø æ @
+          • Ω é ® † µ ü ı œ π å ~
+           ß ∂ ƒ ¸ ˛ √ ª ﬁ ö ä @
         ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
       cmd+alt+shift: |
         • ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
-          ° ˝ É √ ‡ ˜ Ü ˆ Œ ∏ ˚ ^
-          ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Æ ’
+          ° ˝ É √ ‡ ˜ Ü ˆ Œ ∏ Å ^
+          ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ö Ä ’
         ≥ ⁄ ˇ Ç « » “ ” „ · —
       alt+caps: |
         ¶ © @ £ $ ∞ § | [ ] ≈ ± ¨
-          Q Ω É ® ˆ ¸ Ü ı Œ π ˙ ~
-           Š Đ ƒ ¸ ˛ √ ª ﬁ Ø Æ ™
+          Q Ω É ® ˆ ¸ Ü ı Œ π Å ~
+           Š Đ ƒ ¸ ˛ √ ª ﬁ Ö Ä ™
         ≤ Ž ≈ Č ‹ › ‘ ’ ‚ … –
   space:
     caps: \u{A0}
@@ -180,33 +180,33 @@ windows:
     layers:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-        á w e r t y u i o p å ¨
-        a s d f g h j k l ö ä '
+        á w e r t y u i o p ž ¨
+        a s d f g h j k l š č '
         < z x c v b n m , . -
       shift: |
         ½ ! " # ¤ % & / ( ) = ? `
-        Á W E R T Y U I O P Å ^
-        A S D F G H J K L Ö Ä *
+        Á W E R T Y U I O P Ž ^
+        A S D F G H J K L Š Č *
         > Z X C V B N M ; : _
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-        Á W E R T Y U I O P Å ^
-        A S D F G H J K L Ö Ä '
+        Á W E R T Y U I O P Ž ^
+        A S D F G H J K L Š Č '
         < Z X C V B N M , . -
       caps+shift: |
         ½ ! " # ¤ % & / ( ) = ? `
-        á w e r t y u i o p å ^
-        a s d f g h j k l ö ä *
+        á w e r t y u i o p ž ^
+        a s d f g h j k l š č  *
         > z x c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \ ¨
-        q â € \u{0} ŧ \u{0} \u{0} ï õ \u{0} \u{0} ~
-        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ø æ \u{0}
+        q â € \u{0} ŧ \u{0} \u{0} ï õ \u{0} å ~
+        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö ä \u{0}
         | ž \u{0} č ǯ ʒ ŋ µ \u{0} \u{0} \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} ^
-        Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} \u{0} \u{0}
-        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ø Æ \u{0}
+        Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} Å \u{0}
+        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ö Ä \u{0
         \u{0} Ž \u{0} Č Ǯ Ʒ Ŋ \u{0} \u{0} \u{0} \u{0}
       ctrl: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
@@ -226,33 +226,33 @@ chromeOS:
     layers:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-        q w e r t y u i o p å ¨
-        a s d f g h j k l ö ä '
+        q w e r t y u i o p ž ¨
+        a s d f g h j k l š č '
         < z x c v b n m , . -
       shift: |
         ½ ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å ^
-        A S D F G H J K L Ö Ä *
+        Q W E R T Y U I O P Ž ^
+        A S D F G H J K L Š Č *
         > Z X C V B N M ; : _
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-        Q W E R T Y U I O P Å ¨
-        A S D F G H J K L Ö Ä '
+        Q W E R T Y U I O P Ž ¨
+        A S D F G H J K L Š Č '
         < Z X C V B N M , . -
       caps+shift: |
         ½ ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p å ^
-        a s d f g h j k l ö ä *
+        q w e r t y u i o p š ^
+        a s d f g h j k l ž č *
         > z x c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \ ¨
-        q â € \u{0} ŧ \u{0} \u{0} ï õ \u{0} \u{0} ~
-        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ø æ \u{0}
+        q â € \u{0} ŧ \u{0} \u{0} ï õ \u{0} å ~
+        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö ä \u{0}
         | ž \u{0} č ǯ ʒ ŋ µ \u{0} \u{0} \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} ^
-        Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} \u{0} \u{0}
-        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ø Æ \u{0}
+        Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} Å \u{0}
+        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ö Ä \u{0}
         \u{0} Ž \u{0} Č Ǯ Ʒ Ŋ \u{0} \u{0} \u{0} \u{0}
 transforms:
   '-':
