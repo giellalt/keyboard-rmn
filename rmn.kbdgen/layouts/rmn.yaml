@@ -175,7 +175,7 @@ macOS:
     alt+caps: ['-', '¸', 'ƒ', 'ˀ', 'ˆ', 'ˇ', '˘', '˙', '˚', '˝']
 windows:
   config:
-    locale: fit-Latn-SE
+    locale: rmn-Latn-SE
   primary:
     layers:
       default: |
