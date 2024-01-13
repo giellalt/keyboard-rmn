@@ -4,8 +4,8 @@ displayNames:
   rmn: Arlikane (Sverige)
 android:
   config:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-fit?channel=nightly&platform=mobile
-    spellerPath: fit.bhfst
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-rmn?channel=nightly&platform=mobile
+    spellerPath: rmn.bhfst
   primary:
     layers:
       default: |
@@ -28,8 +28,8 @@ android:
         \s{shift} Z X C V B N M . \s{backspace}
 iOS:
   config:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-fit?channel=nightly&platform=mobile
-    spellerPath: fit.bhfst
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-rmn?channel=nightly&platform=mobile
+    spellerPath: rmn.bhfst
   primary:
     layers:
       default: |
