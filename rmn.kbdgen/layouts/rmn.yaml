@@ -1,7 +1,7 @@
 displayNames:
-  sv: romsk arli (Sverige)
-  en: Romany Arli (Sweden)
-  rmn: Arlikane (Sverige)
+  sv: romska (Sverige)
+  en: Romany (Sweden)
+  rmn: Romani Chib (Sverige)
 android:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-rmn?channel=nightly&platform=mobile
@@ -180,12 +180,12 @@ windows:
     layers:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-        á w e r t y u i o p ž ¨
+        q w e r t y u i o p ž ¨
         a s d f g h j k l š č '
         < z x c v b n m , . -
       shift: |
         ½ ! " # ¤ % & / ( ) = ? `
-        Á W E R T Y U I O P Ž ^
+        Q W E R T Y U I O P Ž ^
         A S D F G H J K L Š Č *
         > Z X C V B N M ; : _
       caps: |
