@@ -206,7 +206,7 @@ windows:
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} ^
         Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} Å \u{0}
-        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ö Ä \u{0
+        Á Š Đ Ǥ Ǧ Ȟ \u{0} Ǩ \u{0} Ö Ä \u{0}
         \u{0} Ž \u{0} Č Ǯ Ʒ Ŋ \u{0} \u{0} \u{0} \u{0}
       ctrl: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
@@ -726,5 +726,5 @@ longpress:
   "'": ‚ ‘ ’
 keyNames:
   space: mellanslag
-  return: ny\u00ADrad
+  return: retur
 
