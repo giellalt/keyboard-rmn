@@ -1,17 +1,17 @@
 locales:
   rmn:
-    name: Romany Arli Keyboards
+    name: Romani Keyboards
     description: >-
-      Mobile OS keyboards for the Romany Arli language from the Divvun group
+      Mobile OS keyboards for the Romani language from the Divvun group
       at UiT.
   en:
-    name: Romany Arli Keyboards
+    name: Romani Keyboards
     description: >-
-      Mobile OS keyboards for the Romany Arli language from the Divvun group
+      Mobile OS keyboards for the Romani language from the Divvun group
       at UiT.
   nb:
-    name: Romany Arli tastatur
-    description: Mobiltastatur for Romany Arli fra Divvun-gruppa.
+    name: Romany tastatur
+    description: Mobiltastatur for Romany fra Divvun-gruppa.
 author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 email: feedback@divvun.no
