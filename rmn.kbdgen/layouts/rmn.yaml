@@ -175,7 +175,7 @@ macOS:
     alt+caps: ['-', '¸', 'ƒ', 'ˀ', 'ˆ', 'ˇ', '˘', '˙', '˚', '˝']
 windows:
   config:
-    locale: Romani Chib (Sverige)
+    locale: rmn-Latn-SE
     languageName: Romani Chib (Sverige)
   primary:
     layers:
