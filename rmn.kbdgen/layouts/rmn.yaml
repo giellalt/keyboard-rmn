@@ -176,6 +176,7 @@ macOS:
 windows:
   config:
     locale: rmn-Latn-SE
+    languageName: Romani Chib (Sverige)
   primary:
     layers:
       default: |
