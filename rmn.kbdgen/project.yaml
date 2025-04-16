@@ -2,16 +2,29 @@ locales:
   rmn:
     name: Romani Keyboards
     description: >-
-      Mobile OS keyboards for the Romani language from the Divvun group
-      at UiT.
+      Keyboards for Romani (Sweden), made by ISOF in cooperation
+      with the Divvun and Giellatekno groups at UiT.
   en:
     name: Romani Keyboards
     description: >-
-      Mobile OS keyboards for the Romani language from the Divvun group
-      at UiT.
+      Keyboards for Romani (Sweden), made by ISOF in cooperation
+      with the Divvun and Giellatekno groups at UiT.
   nb:
-    name: Romany tastatur
-    description: Mobiltastatur for Romany fra Divvun-gruppa.
+    name: Romanitastatur
+    description: >-
+      Tastatur for romani (Sverige), utvikla av ISOF i samarbeid
+      med Divvun- og Giellatekno-gruppene ved UiT.
+  nn:
+    name: Romanitastatur
+    description: >-
+      Tastatur for romani (Sverige), utvikla av ISOF i samarbeid
+      med Divvun- og Giellatekno-gruppene ved UiT.
+  sv:
+    name: Romanitangentbord
+    description: >-
+      Tangentbord för romani (Sverige), tagit fram av ISOF i samarbete
+      med Divvun- och Giellatekno-grupperna vid UiT.
+
 author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 email: feedback@divvun.no
