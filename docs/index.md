@@ -1,8 +1,10 @@
 # Documentation for the Romany Arli keyboards
 
-# Layouts
+## Layouts
 
--   [Layout overview](layout.md)
+- [Layout overview](layout.md)
+
+## Other information
 
 # Downloads
 
